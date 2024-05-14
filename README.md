@@ -3,7 +3,6 @@
 ## Introduction
 Space Dodge is a simple Pygame-based game where the player controls a spaceship and dodges falling stars. The game progressively gets more difficult as time goes on.
 
-[Final Project Blog Article]() <!-- Add link to final project blog article when available -->
 Author:
     YASSER CHOUHAD
     KHAOULA HILI
@@ -34,8 +33,7 @@ Contributions are welcome! If you'd like to contribute to Space Dodge, please fo
 - [Pygame](https://www.pygame.org/) - Pygame library for creating games in Python
 
 ## Licensing
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+This project is licensed under the MIT License 
 ## Screenshots
 ![image](https://github.com/NOTyasser/MVP-project/assets/138932395/20d7a38d-53f4-4aeb-b968-50d04ad21577)
 

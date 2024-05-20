@@ -64,7 +64,7 @@ class FallingStar:
             self.x = random.randint(0, WIDTH)
 
     def draw(self):
-        pygame.draw.circle(WIN, (255, 255, 255), (self.x, self.y), self.size)
+        pygame.draw.circle(WIN, (0, 0, 0), (self.x, self.y), self.size)
 
 # Asteroid class
 class Asteroid:
